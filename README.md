@@ -1,8 +1,8 @@
-# one-python
+# One-Python | Many Jobs
 We don't need [a lot of libraries](https://github.com/vinta/awesome-python). We just need the best ones.
 
 -----
-## Libraries
+## Required Libraries
 
 #### General Machine Learning
 * [scikit-learn](http://scikit-learn.org/) - Simple and efficient tools for data mining and data analysis.
